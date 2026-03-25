@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/1.Dominio/">
+    <Project Path="GymCalendarDominio/GymCalendarDominio.csproj" />
+  </Folder>
+  <Folder Name="/2.Presentacion/">
+    <Project Path="GymCalendarBackend/GymCalendarBackend.csproj" />
+  </Folder>
+</Solution>
